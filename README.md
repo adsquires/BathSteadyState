@@ -1,0 +1,1 @@
+Claude coded html file with an interactive cartoon illustrating how steady state is reached in an intermediate in a chemical reaction, using a bucket of water metaphor. The background photo is Bath University campus.
